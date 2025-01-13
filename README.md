@@ -1,3 +1,3 @@
-CODSOFT
+#CODSOFT
 
-working internshp on codsoft company
+"Working on an internship project at Codsoft company."
